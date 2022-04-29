@@ -3,6 +3,7 @@
 --The CITY table is described as follows:
 
 
+
 --      CITY
 --Field       Type
 --
