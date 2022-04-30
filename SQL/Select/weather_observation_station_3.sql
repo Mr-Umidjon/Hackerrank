@@ -13,4 +13,4 @@
 
 
 
-select distinct CITY from STATION where mod(ID, 2)=2;
+select distinct CITY from STATION where mod(ID, 2) = 2;
