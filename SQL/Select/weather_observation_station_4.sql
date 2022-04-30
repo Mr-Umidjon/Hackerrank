@@ -12,7 +12,7 @@
 -- LANG_W        NUMBER
 
 
-select COUNT(CITY) - COUNT(distinct CITY) FROM STATION;
+select count(CITY) - count(distinct CITY) from STATION;
 
 
 --where LAT_N is the northern latitude and LONG_W is the western longitude.
