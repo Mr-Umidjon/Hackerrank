@@ -2,7 +2,7 @@
 --the number of distinct CITY entries in the table.
 --The STATION table is described as follows:
 
---      STATION
+--       STATION
 --
 -- FIELD         TYPE
 -- ID            NUMBER
