@@ -12,4 +12,4 @@
 -- LANG_W        NUMBER
 
 
-select distinct CITY from STATION WHERE MOD(ID, 2)=2;
+select distinct CITY from STATION where mod(ID, 2)=2;
